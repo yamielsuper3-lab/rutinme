@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">RutinME</string>
+    <string name="title_activity_main">RutinME</string>
+    <string name="package_name">com.rutinme.app</string>
+    <string name="custom_url_scheme">com.rutinme.app</string>
+</resources>

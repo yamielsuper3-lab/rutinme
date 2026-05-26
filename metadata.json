@@ -1,0 +1,7 @@
+{
+  "name": "RutinME - Performance & Biometrics",
+  "description": "A high-performance workout tracker with biometric analysis, fatigue tracking, and AI-driven form insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
